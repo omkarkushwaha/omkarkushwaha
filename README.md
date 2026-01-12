@@ -64,11 +64,9 @@ Skilled in backend development, RESTful APIs, database management, and smooth fr
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarkushwaha&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarkushwaha&theme=dark" />
+  <a href="https://github.com/omkarkushwaha">
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=omkarkushwaha&theme=dark" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
