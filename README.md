@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header"/>
+
 <h1 align="center">Hi 👋, I'm Omkar Kushwaha</h1>
 <h3 align="center">Python Developer | Django | React.js</h3>
 
@@ -19,23 +21,16 @@ Skilled in backend development, RESTful APIs, database management, and smooth fr
 
 ## 🛠️ Core Technical Skills
 
-### 🔹 Frontend
-- HTML  
-- CSS  
-- Bootstrap  
-- React.js  
-
-### 🔹 Backend
-- Python  
-- Django  
-
-### 🔹 Database
-- MySQL  
-
-### 🔹 Tools & Others
-- Git & GitHub  
-- Debugging & Testing  
-- Code Optimization  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,python,django,mysql,git,github&perline=5" /> </p>
+💻 Frontend
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+Bootstrap+%7C+React.js" /> </p>
+⚙️ Backend
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Python+%7C+Django+%7C+REST+APIs" /> </p>
+🗄️ Database
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF9800&center=true&vCenter=true&width=600&lines=MySQL+%7C+Database+Management" /> </p>
+🧰 Tools & Practices
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F44336&center=true&vCenter=true&width=700&lines=Git+%7C+GitHub+%7C+Debugging+%7C+Testing+%7C+Code+Optimization" /> </p> 
 
 ---
 
@@ -93,6 +88,6 @@ Skilled in backend development, RESTful APIs, database management, and smooth fr
 ---
 
 ⭐ **Availability:** Open to Full-Time IT Opportunities  
-⭐ *If you like my work, consider starring my repositories!*
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
