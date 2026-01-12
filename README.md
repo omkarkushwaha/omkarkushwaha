@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Kushwaha</h1>
-<h3 align="center">Frontend Developer | React | JavaScript</h3>
+<h3 align="center">Python Developer | React | JavaScript</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omkarkushwaha&label=Profile%20views&color=0e75b6&style=flat" />
@@ -11,7 +11,7 @@
 - 💻 Frontend Developer passionate about clean UI & UX
 - 🌱 Currently learning **React & Django**
 - ⚡ Love building real-world projects
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **kushwahaomkar8467@gmail.com**
 
 ---
 
