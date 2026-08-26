@@ -37,14 +37,24 @@ Skilled in backend development, RESTful APIs, database management, and smooth fr
 **CodeSquadz, Noida**  
 📅 *May 2025 – February 2026*
 
-#### Projects:
+## Projects:
 - ✅ **Todo List Application**
+  Full CRUD task management app built with Python & Django.
+  🔗 [Repository](https://github.com/omkarkushwaha/django-todo-app)
 - 🔐 **Login & Registration System**
+  User authentication system with registration, login, and user management built in Django.
 - 🛠 **Admin Interface (Django Admin)**
+  Configured Django Admin for managing application data and models.
+- 📝 **Daily Blog Site**
+  Full-stack blog platform built with Django & Python — includes user authentication, blog post management, categories, tags, comments, and image uploads. Responsive UI built with HTML, CSS & Bootstrap.
+  🔗 [Live Demo](https://daily-blog-xi.vercel.app/)
 
 ---
 
 ## 🎓 Education
+-**Master of Computer Applications (2026-2028)**
+ Jaypee Institute of Information Technology, Noida
+ 
 - **Bachelor of Arts (2023 – 2026)**  
   Deen Dayal Upadhyay Gorakhpur University, Gorakhpur  
 
