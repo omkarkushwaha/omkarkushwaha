@@ -52,7 +52,7 @@ Skilled in backend development, RESTful APIs, database management, and smooth fr
 ---
 
 ## 🎓 Education
--**Master of Computer Applications (2026-2028)**  
+- **Master of Computer Applications (2026-2028)**  
  Jaypee Institute of Information Technology, Noida
  
 - **Bachelor of Arts (2023 – 2026)**  
