@@ -35,7 +35,7 @@ Skilled in backend development, RESTful APIs, database management, and smooth fr
 ## 💼 Professional Experience
 ### **Python Full Stack Developer Trainee**  
 **CodeSquadz, Noida**  
-📅 *May 2025 – Present*
+📅 *May 2025 – February 2026*
 
 #### Projects:
 - ✅ **Todo List Application**
